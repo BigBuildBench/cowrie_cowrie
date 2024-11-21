@@ -1,7 +1,7 @@
 build==1.2.2
 coverage==7.6.1
 mypy-extensions==1.0.0; platform_python_implementation=='CPython' and python_version>'3.8'
-mypy-zope==1.0.5; platform_python_implementation=='CPython' and python_version>'3.8'
+mypy-zope==1.0.9; platform_python_implementation=='CPython' and python_version>'3.8'
 mypy==1.10.0; platform_python_implementation=='CPython' and python_version>'3.8'
 pathspec==0.12.1
 pipdeptree==2.23.3
